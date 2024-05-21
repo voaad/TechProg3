@@ -4,5 +4,5 @@
 ### Приходько В.О. ББИ237
 
 <p align="center">
-  <img src="https://github.com/voaad/TechProg3/blob/main/Диаграмма%20вариантов%20использования.png?raw=true?raw=true" alt="Диаграмма вариантов использования" width="777"/>
+  <img src="https://github.com/voaad/TechProg3/blob/main/Диаграмма%20вариантов%20использования?raw=true?raw=true" alt="Диаграмма вариантов использования" width="777"/>
 </p>
