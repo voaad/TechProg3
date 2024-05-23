@@ -14,3 +14,7 @@
 <p align="center">
   <img src="https://github.com/voaad/TechProg3/blob/main/Диаграмма%20состояний.png?raw=true?raw=true?raw=true" alt="Диаграмма состояний" width="777"/>
 </p>
+
+<p align="center">
+  <img src="https://github.com/voaad/TechProg3/blob/main/Диаграмма%20деятельности.png?raw=true?raw=true?raw=true" alt="Диаграмма деятельности" width="777"/>
+</p>
